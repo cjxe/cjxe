@@ -3,7 +3,7 @@
 <!--
 **cjxe/cjxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-My name is Baran, I am living **very** close to London and looking for a Summer internship!
+My name is Baran, I am making lives easier by automating!
 
 - 🔭 I’m currently working on the Front End of a back office UI with a team of 5 for the Nomis 2021 Census!
 - 🌱 I’m currently learning React.js for the UI development.
