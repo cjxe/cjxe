@@ -5,8 +5,7 @@
 -->
 My name is Baran, and I am making lives easier by automating!
 
-- 🔭 I’m currently working on the Front End of a back office UI with a team of 5 for the Nomis 2021 Census!
-- 🌱 Currently learning React.js for the UI development.
-- ✨ Interests: Data Science, Machine Learning, UX and Automation!
+- 🔭 I am currently looking for a 2021 summer internship as a software developer!
+- ✨ Interests: Data Science, Machine Learning, Automation and Cryptocurrencies.
 - ⚡ Fun fact: Professional Windows user, 12 years of experience!!
 
