@@ -1,6 +1,6 @@
 ## About me
 
-Hey, name is Baran and I enjoy working on big data!
+Hey, my name is Baran and I enjoy working on bots!
 
 - ✨ **Interests:** Data Science, Machine Learning, Chatbots, Automation and Cryptocurrencies.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know by email!
@@ -29,6 +29,9 @@ Hey, name is Baran and I enjoy working on big data!
 - <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/> **MySQL** - A university module taught databases using this.
 - <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Used it once on the backend of a full stack website where I logged products and performed crud.
 - <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15"/> **Cloud Firestore** - Used it once for a monitoring service where I logged user activities, performed crud and search queries.
+
+### Code analysis
+- <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="15"/> **ESLint** - My default config is [airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base).
 
 ### Testing
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built an [automated purchasing app](https://github.com/cjxe/supreme-auto-checkout).
