@@ -40,4 +40,4 @@ Hey, my name is Baran and I enjoy working on bots!
 
 ### Deploy
 - <img src="https://image.flaticon.com/icons/png/512/873/873120.png" width="15"/> **Heroku** - Deployed a Telegram bot which was hosted on GitHub.
-- <img src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-dedicatedserver-4263512_117859.png" width="15"/> **Dedicated Server** - Deployed a BSC Full Node, created user groups, changed permissions, managed firewall and insatlled a [GUI](https://i0.wp.com/9to5linux.com/wp-content/uploads/2020/09/xfce416preview.jpg?resize=1400%2C800&ssl=1). 
+- <img src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-dedicatedserver-4263512_117859.png" width="15"/> **Dedicated Server** - Deployed a BSC Full Node, created user groups, changed permissions, managed firewall and installed a [GUI](https://i0.wp.com/9to5linux.com/wp-content/uploads/2020/09/xfce416preview.jpg?resize=1400%2C800&ssl=1). 
