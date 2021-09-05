@@ -30,13 +30,14 @@ Hey, my name is Baran and I enjoy working on bots!
 - <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Used it once on the backend of a full stack website where I logged products and performed crud.
 - <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15"/> **Cloud Firestore** - Used it once for a monitoring service where I logged user activities, performed crud and search queries.
 
-### Code analysis & formatting
+### Code analysis & format
 - <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="15"/> **ESLint** - My default config is [airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base).
 - <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" width="15"/> **Prettier** - I use it with ESLint to auto-format the code.
 - <img src="https://hookyqr.gallerycdn.vsassets.io/extensions/hookyqr/beautify/1.5.0/1556863124877/Microsoft.VisualStudio.Services.Icons.Default" width="15"/> **Beautify** - Used it a few times to format objects.
 
-### Testing
+### Test
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built an [automated purchasing app](https://github.com/cjxe/supreme-auto-checkout).
 
-### Cloud
+### Deploy
 - <img src="https://image.flaticon.com/icons/png/512/873/873120.png" width="15"/> **Heroku** - Deployed a Telegram bot which was hosted on GitHub.
+- <img src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-dedicatedserver-4263512_117859.png" width="15"/> **Dedicated Server** - Deployed a BSC Full Node, created user groups, changed permissions, managed firewall and insatlled a [GUI](https://i0.wp.com/9to5linux.com/wp-content/uploads/2020/09/xfce416preview.jpg?resize=1400%2C800&ssl=1). 
