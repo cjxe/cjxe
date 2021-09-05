@@ -30,7 +30,7 @@ Hey, my name is Baran and I enjoy working on bots!
 - <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Used it once on the backend of a full stack website where I logged products and performed crud.
 - <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15"/> **Cloud Firestore** - Used it once for a monitoring service where I logged user activities, performed crud and search queries.
 
-### Code analysis & format
+### Code analysis & formatting
 - <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="15"/> **ESLint** - My default config is [airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base).
 - <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" width="15"/> **Prettier** - I use it with ESLint to auto-format the code.
 - <img src="https://hookyqr.gallerycdn.vsassets.io/extensions/hookyqr/beautify/1.5.0/1556863124877/Microsoft.VisualStudio.Services.Icons.Default" width="15"/> **Beautify** - Used it a few times to format objects.
