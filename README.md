@@ -26,10 +26,13 @@ Hey, my name is Baran and I enjoy working on bots!
 - 📝 **GitKraken Board** - Used this Kanban Board once for a team project.
 
 ### Data
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="15"/> **SQLite** - Implemented it once where the app needed a simple, local storage. Performed SELECT and INSERT queries.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="15"/> **SQLite** - Implemented it once where the app needed a simple, local storage. Performed Create and Read operations.
 - <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/> **MySQL** - A university module taught databases using this.
 - <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15"/> **Cloud Firestore** - Implemented it once in a monitoring service where I logged user activities, performed crud and search queries.
-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Implemented it once in the backend of a full stack website where I logged products and performed crud.
+- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Implemented twice:
+- - 1- In the backend of a full stack website where I logged products and performed crud.
+- - 2- Stored username and hashed passwords where I performed user authentication.
+- <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" width="15"/> **Redis** - Implemented it once where I stored Refresh Tokens (JWT) for faster user authorization.
 
 ### Code analysis & formatting
 - <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="15"/> **ESLint** - My default config is [airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base).
