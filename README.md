@@ -1,8 +1,8 @@
 ## About me
 
-Hey, my name is Baran and I enjoy working on bots!
+Hey, my name is Ben (aka Baran)!
 
-- ✨ **Interests:** Blockchain, Automation, Chatbots and Data Science.
+- ✨ **Interests:** Blockchain, software architecture and chatbots.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know by email!
 
 
