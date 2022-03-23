@@ -55,8 +55,8 @@ Hey, my name is Ben (aka Baran)!
 
 ### Deploy
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_logo_icon_146479.png" width="15"/> **Heroku** - Deployed a Telegram bot which was saved on GitHub.
-- <img src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-dedicatedserver-4263512_117859.png" width="15"/> **Dedicated Server** - Deployed a BSC Full Node, created user groups, changed permissions, managed firewall and installed a [GUI](https://i0.wp.com/9to5linux.com/wp-content/uploads/2020/09/xfce416preview.jpg?resize=1400%2C800&ssl=1).
-- <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **DigitalOcean** - Rented a droplet (VPS, Linux VM) and set up a minecraft server for 8 players.
+- <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed a BSC full node, created user groups, changed permissions, managed firewall and installed a GUI.
+- <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)** - Rented a droplet and set up a minecraft server for 8 players.
 
 ### Blockchain
 - <img src="https://i.imgur.com/xUTtTJN.png" width="15"/> **Hardhat** - I use it to [deploy](https://rinkeby.etherscan.io/address/0x25226c350c7c99c48389dd5c97b85937f5e96eca#code), [verify](https://rinkeby.etherscan.io/address/0xd2821384BbB5C00A30EA17cA7EAda0080aB3d9be#code), test and debug smart contracts.
