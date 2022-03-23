@@ -25,8 +25,9 @@ Hey, my name is Baran and I enjoy working on bots!
 
 ## Tools I use for ...
 
-### Design
+### Project Design
 - <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma** - Used it four times. [Some](https://imgur.com/a/Cc5zd7c) of my designs. None are production level.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="15"/> **Swagger** - Used it once. Documented a REST API in OpenAPI specification from start to finish with 2 endpoints.
 
 ### Teamwork
 - <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> **Git** - I always use for version control and collaboration.
