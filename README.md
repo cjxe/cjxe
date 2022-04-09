@@ -53,13 +53,15 @@ Hey, my name is Ben (aka Baran)!
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built an [automated purchasing app](https://github.com/cjxe/supreme-auto-checkout).
 
 
-### Deploy
+### Deployment
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_logo_icon_146479.png" width="15"/> **Heroku** - Deployed a Telegram bot which was saved on GitHub.
-- <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed a BSC full node, created user groups, changed permissions, managed firewall and installed a GUI.
+- <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
 - <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)** - Rented a droplet and set up a minecraft server for 8 players.
+- <img src="https://raw.githubusercontent.com/vercel/vercel/main/examples/nextjs/public/favicon.ico" width="15"/> **Vercel** - Deployed [a project](https://on-chain-dex.vercel.app/) by adjusting some settings on the dashboard.
 
 ### Blockchain
-- <img src="https://i.imgur.com/xUTtTJN.png" width="15"/> **Hardhat** - I use it to [deploy](https://rinkeby.etherscan.io/address/0x25226c350c7c99c48389dd5c97b85937f5e96eca#code), [verify](https://rinkeby.etherscan.io/address/0xd2821384BbB5C00A30EA17cA7EAda0080aB3d9be#code), test and debug smart contracts.
+- <img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" width="15"/> **Remix** - I use it to [deploy](https://rinkeby.etherscan.io/address/0x25226c350c7c99c48389dd5c97b85937f5e96eca#code), test and debug smart contracts. [Recognised beta tester](https://twitter.com/EthereumRemix/status/1501252469615063043).
+- <img src="https://i.imgur.com/xUTtTJN.png" width="15"/> **Hardhat** - I use it to [deploy](https://rinkeby.etherscan.io/address/0x25226c350c7c99c48389dd5c97b85937f5e96eca#code), *[verify](https://rinkeby.etherscan.io/address/0x2551B4246b6F25212A576d48f610b7e7b204DD42#code)*, test and debug smart contracts.
 - <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="15"/> **web3.js** - I used to use this library when [interacting with smart contracts](https://github.com/cjxe/dex-crawler) using JavaScript. Used it twice and migrated to ether.js.
 - <img src="https://miro.medium.com/max/1575/0*IQxtovIkGXiSWzVg.png" width="15"/> **ether.js** - My preferred library when interacting with smart contracts.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="15"/> **IPFS** - Saved objects using [@pinata/sdk](https://www.npmjs.com/package/@pinata/sdk) and retrieved them with [ipfs-http-client](https://www.npmjs.com/package/ipfs-http-client).
