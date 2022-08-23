@@ -1,6 +1,6 @@
 ## About me
 
-Hey, my name is Ben (aka Baran)!
+Hey, my name is Baran (pronounced Bar-on)!
 
 - ✨ **Interests:** Blockchain, software architecture and chatbots.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know by email!
