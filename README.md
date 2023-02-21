@@ -26,7 +26,9 @@ Hey, my name is Baran (pronounced Bar-on)!
 ## Tools I use for ...
 
 ### Project Design
-- <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma** - Used it four times. [Some](https://imgur.com/a/Cc5zd7c) of my designs. None are production level.
+- <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma** - Used it four times. 
+- - [My current work (Light mode, Desktop version)](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1) called Transfer Coins. *(work in progress)*
+- - [Some](https://imgur.com/a/Cc5zd7c) of my old designs.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="15"/> **Swagger** - Used it once. Documented a REST API in OpenAPI specification from start to finish with 2 endpoints.
 
 ### Teamwork
