@@ -2,8 +2,13 @@
 
 Hey, my name is Baran (pronounced Bar-on)!
 
-- ✨ **Interests:** Blockchain (DeFi), finance, and psychology.
+- ✨ **Interests:** Scalability, optimizations, finance, blockchain (especially DeFi) and psychology.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know by email!
+
+## My current work (work in progress)
+
+- I am currently building an app called [Transfer Coins](https://transfer-coins.vercel.app/).
+- While building the app, I designed and built a [design system](https://cjxe.github.io/transfer-coins/).
 
 
 ## Languages that I know
@@ -32,12 +37,12 @@ Hey, my name is Baran (pronounced Bar-on)!
 
 ### Front end
 - <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma** - Used it five times. 
-- - [My current work (Light mode, Desktop version)](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1) called Transfer Coins. *(mobile version and dark mode will be added later)*
+- - [My current work (Light mode, Desktop version)](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1) called [Transfer Coins](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=202%3A5542&viewport=878%2C167%2C0.15&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1). *(mobile version and dark mode will be designed later)*
 - - [Some](https://imgur.com/a/Cc5zd7c) of my old designs.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="15"/> **Tailwind CSS** - Completed [The Net Ninja's Tailwind CSS tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw). Currently using it for Transfer Coins.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15"/> **React** - Completed [The Net Ninja's React tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d). Currently using it for Transfer Coins.
-- <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js** - Completed [The Net Ninja's Next.js tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw). Currently using it for Transfer Coins.
-- <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook** - Completed [Codevolution's Storybook tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk). Currently using it for Transfer Coins.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="15"/> **Tailwind CSS** - Completed [The Net Ninja's Tailwind CSS tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw). Used it to build Transfer Coins.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15"/> **React** - Completed [The Net Ninja's React tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d). Used it to build [Transfer Coins](https://transfer-coins.vercel.app/).
+- <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js** - Completed [The Net Ninja's Next.js tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw). Used it to build [Transfer Coins](https://transfer-coins.vercel.app/).
+- <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook** - Completed [Codevolution's Storybook tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk). Used it to build and test a design system for [Transfer Coins](https://cjxe.github.io/transfer-coins/).
 
 ### Data
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="15"/> **SQLite** - Implemented it once where the app needed a simple, local storage. Performed Create and Read operations.
@@ -54,7 +59,8 @@ Hey, my name is Baran (pronounced Bar-on)!
 
 ### Test
 - <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest** - Wrote basic tests once. Switched to [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) because unit tests required low complexity.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built an [automated purchasing app](https://github.com/cjxe/supreme-auto-checkout).
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
+- 🐶 **Husky** - Created a pre-commit hook to format the codebase with Prettier, lint with ESLint and build the project to ensure safe deployment.
 
 
 ### Deployment
