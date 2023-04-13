@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/cjxe/cv/blob/main/CV_mahmut_baran_turkmen.pdf">📄 My CV</h1>
+<h1 align="center"><a href="https://docs.google.com/viewer?url=https://github.com/cjxe/cv/raw/main/CV_mahmut_baran_turkmen.pdf" target="_blank" rel="noopener noreferrer">📄 My CV</h1>
 
 ## About me
 
