@@ -62,7 +62,6 @@ Hey, my name is Baran (pronounced Bar-on)!
 
 
 ### Deployment
-- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_logo_icon_146479.png" width="15"/> **Heroku** - Deployed a Telegram bot which was saved on GitHub.
 - <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
 - <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)** - Rented a droplet and set up a minecraft server for 8 players.
 - <img src="https://raw.githubusercontent.com/vercel/vercel/main/examples/nextjs/public/favicon.ico" width="15"/> **Vercel** - Deployed [a project](https://on-chain-dex.vercel.app/) by adjusting some settings on the dashboard.
