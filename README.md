@@ -14,16 +14,14 @@ Hey, my name is Baran (pronounced Bar-on)!
 ## Languages that I know
 
 - <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js-logo" width="15"/> **JavaScript** - Use for applications that mostly involve networks and the internet. Some of my projects:
-- - Designed, coded, and hosted a REST API that saves metadata on IPFS and saves proof on a network that runs EVM *(built for an international company, closed-source)*
+- - Designed, coded, and hosted a REST API that saves metadata on IPFS and saves proof on a network that runs on the EVM *(built for an international company, closed-source)*
 - - [a Discord chatbot that has a loyalty reward system like MEE6](https://www.linkedin.com/in/mahmut-baran-turkmen/overlay/experience/2018664862/multiple-media-viewer/?profileId=ACoAACSBY4sB9GB0Ng1SFps3b_bQeJq5gQops2c&treasuryMediaId=1635499006986) *(closed-source)*
-- - [full stack e-commerce website](https://youtu.be/9uSfgO9fq6A)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/> **Python** - My go-to language for web scraping, data cleaning, data analysis and machine learning. Some of my projects:
 - - [a search engine for in-game items](https://github.com/cjxe/EZ-skin-price-aggregator)
-- - [an automated checkout app for an e-commerce website](https://github.com/cjxe/supreme-auto-checkout)
+- - [configurable end-to-end test with Selenium](https://github.com/cjxe/supreme-auto-checkout)
 - - [a Telegram chatbot that creates shortcuts for crypto addresses](https://github.com/cjxe/custom-telegram-bot-1) *(closed-source)*
 - <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" alt="sol-logo" width="15"/> **Solidity** - Use for decentralised applications on blockchains that support [the EVM](https://ethereum.org/en/developers/docs/evm/) (e.g., Ethereum, BSC, Polygon).
 - - [an on-chain, order book style DEX](https://github.com/cjxe/on-chain-dex) *(this is my bachelors project)*
-- - [a simple token (contract) that can be transferred to other wallets](https://github.com/cjxe/WTRToken)(https://rinkeby.etherscan.io/address/0xd2821384BbB5C00A30EA17cA7EAda0080aB3d9be#code)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c-logo" width="15"/> **C** - Coded [Connect Four](https://cf.geekdo-images.com/I_ZPIWEvFlrMa8caT4UD-w__opengraph/img/kyLinLT_XujloY21Omjf5p7q1SA=/fit-in/1200x630/filters:strip_icc()/pic859430.jpg) which had an extra feature to twist rows.
 - <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java-logo" width="15"/> **Java** - Taught at  the university but never used in a project.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash-logo" width="15"/> **Bash** - Use to control Linux/UNIX servers.
