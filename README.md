@@ -57,9 +57,11 @@ Hey, my name is Baran (pronounced Bar-on)!
 ### Testing
 - <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
-- 🐶 **Husky** - Created a pre-commit hook to format the codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 100%.
-
-
+  
+### Automation
+- <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/> **GitHub Actions** - Utilise it for automatic testing and deployments.
+- 🐶 **Husky** - Created a pre-commit hook to format the local codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 100%.
+  
 ### Deployment
 - <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
 - <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)**
@@ -74,3 +76,11 @@ Hey, my name is Baran (pronounced Bar-on)!
 - <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="15"/> **web3.js**
 - <img src="https://miro.medium.com/max/1575/0*IQxtovIkGXiSWzVg.png" width="15"/> **ether.js**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="15"/> **IPFS** - Developed a system that allows for the storage of supply chain product data on the IPFS network.
+
+
+### AWS
+- <img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/08/12/Screen-Shot-2020-08-12-at-9.51.17-AM.png" width="15"/> **Route 53** - [See my example project](https://github.com/cjxe/aws-route53-cloudfront-s3)
+- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4i3isyvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://day-journal.com/memo/images/logo/aws/cloudfront.png" width="15"/> **CloudFront**
+- <img src="https://seeklogo.com/images/A/aws-certificate-manager-logo-2639B06BF4-seeklogo.com.png" width="15"/> **Certificate Manager**
+- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PnCOq3po--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://day-journal.com/memo/images/logo/aws/s3.png" width="15"/> **S3**
+  
