@@ -4,7 +4,7 @@
 
 Hey, my name is Baran (pronounced Bar-on)!
 
-- ✨ **Interests:** Scalability, optimizations, finance, blockchain (especially DeFi) and psychology.
+- ✨ **Interests:** Scalability, optimizations, finance, DeFi, blockchain and psychology.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on LinkedIn!
 
 ## My current work (work in progress)
@@ -38,15 +38,15 @@ Hey, my name is Baran (pronounced Bar-on)!
 - <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma**
 - - [My current work called Transfer Coins](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1).
 - - [Some of my old designs](https://imgur.com/a/Cc5zd7c).
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="15"/> **Tailwind CSS**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15"/> **React** - Built [Transfer Coins](https://transfer-coins.vercel.app/).
 - <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
 - <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook** - Built and tested a [design system for Transfer Coins](https://cjxe.github.io/transfer-coins/).
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="15"/> **Tailwind CSS**
 
 ### Data
-- <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15"/> **Cloud Firestore** - Implemented it in a monitoring service where I logged user activities, performed crud and search queries.
-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Implemented it in the backend of a full stack website where I logged products and performed crud.
-- <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" width="15"/> **Redis**
+- <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15"/> **Cloud Firestore** - Implemented it in a monitoring service to log user activities, perform CRUD operations and search queries.
+- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Implemented it in the backend of a full stack website to log products and perform CRUD operations.
+- <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" width="15"/> **Redis** - Utilised when working with Refresh Tokens (JWT) for whitelisting purposes.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="15"/> **SQLite**
 - <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="15"/> **MySQL**
 
@@ -62,15 +62,15 @@ Hey, my name is Baran (pronounced Bar-on)!
 
 ### Deployment
 - <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
-- <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)** - Rented a droplet and set up a multiplayer game server for 8 players.
+- <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)**
 - <img src="https://raw.githubusercontent.com/vercel/vercel/main/examples/nextjs/public/favicon.ico" width="15"/> **Vercel**
 
 ### Documentation
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="15"/> **Swagger** - Documented a REST API in OpenAPI 3.0.0 specification.
 
 ### Blockchain
+- <img src="https://i.imgur.com/xUTtTJN.png" width="15"/> **Hardhat** - I use it to [deploy](https://rinkeby.etherscan.io/address/0x25226c350c7c99c48389dd5c97b85937f5e96eca#code), *[verify](https://rinkeby.etherscan.io/address/0x2551B4246b6F25212A576d48f610b7e7b204DD42#code)*, test and debug smart contracts.
 - <img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" width="15"/> **Remix**
-- <img src="https://i.imgur.com/xUTtTJN.png" width="15"/> **Hardhat**
 - <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="15"/> **web3.js**
 - <img src="https://miro.medium.com/max/1575/0*IQxtovIkGXiSWzVg.png" width="15"/> **ether.js**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="15"/> **IPFS**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="15"/> **IPFS** - Developed a system that allows for the storage of supply chain product data on the IPFS network.
