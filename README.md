@@ -54,7 +54,7 @@ Hey, my name is Baran (pronounced Bar-on)!
 - <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="15"/> **ESLint** - My default config is [airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base).
 - <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" width="15"/> **Prettier**
 
-### Test
+### Testing
 - <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
 - 🐶 **Husky** - Created a pre-commit hook to format the codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 100%.
