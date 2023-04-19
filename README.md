@@ -71,12 +71,16 @@ Hey, my name is Baran (pronounced Bar-on)!
 ### Documentation
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="15"/> **Swagger** - Documented a REST API in OpenAPI 3.0.0 specification.
 
-### Blockchain
-- <img src="https://i.imgur.com/xUTtTJN.png" width="15"/> **Hardhat** - I use it to [deploy](https://rinkeby.etherscan.io/address/0x25226c350c7c99c48389dd5c97b85937f5e96eca#code), *[verify](https://rinkeby.etherscan.io/address/0x2551B4246b6F25212A576d48f610b7e7b204DD42#code)*, test and debug smart contracts.
-- <img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" width="15"/> **Remix**
-- <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="15"/> **web3.js**
-- <img src="https://miro.medium.com/max/1575/0*IQxtovIkGXiSWzVg.png" width="15"/> **ether.js**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="15"/> **IPFS** - Developed a system that allows for the storage of supply chain product data on the IPFS network.
+<details>
+<summary><h3>🔗 Blockchain</h3></summary>
+<ul>
+<li><img src="https://i.imgur.com/xUTtTJN.png" width="15"/> <strong>Hardhat</strong> - I use it to <a href="https://rinkeby.etherscan.io/address/0x25226c350c7c99c48389dd5c97b85937f5e96eca#code">deploy</a>, <em><a href="https://rinkeby.etherscan.io/address/0x2551B4246b6F25212A576d48f610b7e7b204DD42#code">verify</a></em>, test and debug smart contracts.</li>
+<li><img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" width="15"/> <strong>Remix</strong></li>
+<li><img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="15"/> <strong>web3.js</strong></li>
+<li><img src="https://miro.medium.com/max/1575/0*IQxtovIkGXiSWzVg.png" width="15"/> <strong>ether.js</strong></li>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="15"/> <strong>IPFS</strong> - Developed a system that allows for the storage of supply chain product data on the IPFS network.</li>
+</ul>
+</details>
 
 
 <details>
