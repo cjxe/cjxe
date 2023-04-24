@@ -63,7 +63,7 @@ Hey, my name is Baran (pronounced Bar-on)!
 - 🐶 **Husky** - Created a pre-commit hook to format the local codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 100%.
   
 ### Deployment
-- <img src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png" width="15"/> **Terraform** - [I deployed a VPC with subnets and EC2 instances](https://github.com/cjxe/terraform-tutorial)
+- <img src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png" width="15"/> **Terraform** - [I deployed a VPC with subnets and EC2 instances](https://github.com/cjxe/terraform-tutorial).
 - <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
 - <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)**
 - <img src="https://raw.githubusercontent.com/vercel/vercel/main/examples/nextjs/public/favicon.ico" width="15"/> **Vercel**
@@ -86,11 +86,12 @@ Hey, my name is Baran (pronounced Bar-on)!
 <details>
   <summary><h3>☁️ AWS</h3></summary>
 <ul>
-<li><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/08/12/Screen-Shot-2020-08-12-at-9.51.17-AM.png" width="15"/> <b>Route 53</b> - <a href="https://github.com/cjxe/aws-route53-cloudfront-s3">I hosted a static React app</a></li>
+<li><img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/08/12/Screen-Shot-2020-08-12-at-9.51.17-AM.png" width="15"/> <b>Route 53</b> - <a href="https://github.com/cjxe/aws-route53-cloudfront-s3">I hosted a static React app</a>.</li>
 <li><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4i3isyvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://day-journal.com/memo/images/logo/aws/cloudfront.png" width="15"/> <b>CloudFront</b></li>
 <li><img src="https://seeklogo.com/images/A/aws-certificate-manager-logo-2639B06BF4-seeklogo.com.png" width="15"/> <b>Certificate Manager</b></li>
 <li><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PnCOq3po--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://day-journal.com/memo/images/logo/aws/s3.png" width="15"/> <b>S3</b></li>
-<li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ovcIrbkeKOg29xfYVDD0critm01qv3ylLg&usqp=CAU" width="15"/> <b>VPC</b> - <a href="https://github.com/cjxe/terraform-tutorial">See my project</a></li>
+<li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ovcIrbkeKOg29xfYVDD0critm01qv3ylLg&usqp=CAU" width="15"/> <b>VPC</b> - <a href="https://github.com/cjxe/terraform-tutorial">See my project</a>.</li>
+<li><img src="https://www.logicata.com/wp-content/uploads/2020/08/Amazon-EC2@4x-e1593195270371.png" width="15"/> <b>EC2</b> - Created a public subnet enclosed by a security group, which included an EC2 instance with both an elastic IP and an elastic network interface.
   </ul>
 </details>
 
