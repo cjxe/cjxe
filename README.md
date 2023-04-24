@@ -59,7 +59,7 @@ Hey, my name is Baran (pronounced Bar-on)!
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
   
 ### Automation
-- <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/> **GitHub Actions** - Utilise it for automatic testing and deployments.
+- <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/> **GitHub Actions** - Utilise it for automatic testing and deployments. [An example project for using Terraform with GitHub Actions.](https://github.com/cjxe/github-oidc-terraform-aws)
 - 🐶 **Husky** - Created a pre-commit hook to format the local codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 100%.
   
 ### Deployment
