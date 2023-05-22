@@ -30,9 +30,9 @@ Hey, my name is Baran (pronounced Bar-on)!
 ## Tools I use for ...
 
 ### Teamwork
-- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> **Git**
+- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> **Git** - Completed [Learn Git Branching](https://learngitbranching.js.org/) course.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="15"/> **Notion**
-- 📝 **Kanban Board**
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width="15"/> **Jira**
 
 ### Front end
 - <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma**
