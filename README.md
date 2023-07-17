@@ -62,7 +62,7 @@ Hey, my name is Baran (pronounced Bar-on)!
 - <img src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png" width="15"/> **Terraform** - [I deployed a VPC with subnets and EC2 instances](https://github.com/cjxe/terraform-tutorial).
 - <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
 - <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)**
-- <img src="https://raw.githubusercontent.com/vercel/vercel/main/examples/nextjs/public/favicon.ico" width="15"/> **Vercel**
+- <img src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" width="15"/> **Vercel**
 
 ### Documentation
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="15"/> **Swagger** - Documented a REST API in OpenAPI 3.0.0 specification.
