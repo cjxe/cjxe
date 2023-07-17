@@ -5,13 +5,7 @@
 Hey, my name is Baran (pronounced Bar-on)!
 
 - ✨ **Interests:** Scalability, optimizations, finance, DeFi, blockchain and psychology.
-- ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on LinkedIn!
-
-## My current work (work in progress)
-
-- I am currently building an app called [Transfer Coins](https://transfer-coins.vercel.app/).
-- While building the app, I designed and built a [design system](https://cjxe.github.io/transfer-coins/).
-
+- ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on LinkedIn
 
 ## Languages that I know
 
