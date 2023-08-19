@@ -4,7 +4,7 @@
 
 Hey, my name is Baran (pronounced Bar-on)!
 
-- ✨ **Interests:** Scalability, optimizations, finance, DeFi, blockchain and psychology.
+- ✨ **Interests:** UI/UX, scalability, optimizations, documentation, finance, and DeFi.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on LinkedIn
 
 ## Languages that I know
@@ -27,15 +27,19 @@ Hey, my name is Baran (pronounced Bar-on)!
 ### Teamwork
 - <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> **Git** - Completed [Learn Git Branching](https://learngitbranching.js.org/) course.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="15"/> **Notion**
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width="15"/> **Jira**
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width="15"/> **JIRA**
 
 ### Front end
 - <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma**
 - - [My current work called Transfer Coins](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1).
 - - [Some of my old designs](https://imgur.com/a/Cc5zd7c).
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15"/> **React** - Built [Transfer Coins](https://transfer-coins.vercel.app/).
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15"/> **React**
+- - Built [Transfer Coins](https://transfer-coins.vercel.app/).
+- - Used it while building the UI while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
 - <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
-- <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook** - Built and tested a [design system for Transfer Coins](https://cjxe.github.io/transfer-coins/).
+- <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook**
+- - Built and tested a [design system for Transfer Coins](https://cjxe.github.io/transfer-coins/).
+- - Built and tested a design system while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="15"/> **Tailwind CSS**
 
 ### Data
@@ -50,7 +54,8 @@ Hey, my name is Baran (pronounced Bar-on)!
 - <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" width="15"/> **Prettier**
 
 ### Testing
-- <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest**
+- <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest** - Followed TDD while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
+- <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" width="15"/> **Cucumber** - Completed [BDD with Cucumber (JavaScript) course](https://school.cucumber.io/courses/bdd-with-cucumber-javascript).
 - <img src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" width="15"/> **Mocha** - Followed TDD/BDD approach for my [bachelor's project](https://github.com/cjxe/on-chain-dex).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
   
