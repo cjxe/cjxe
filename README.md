@@ -15,7 +15,6 @@ Hey, my name is Baran (pronounced Bar-on)!
 - <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="ts-logo" width="15"/> **TypeScript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/> **Python**
 - - [A search engine for in-game items](https://github.com/cjxe/EZ-skin-price-aggregator)
-- - [Configurable end-to-end test with Selenium](https://github.com/cjxe/supreme-auto-checkout)
 - - [A Telegram chatbot that creates shortcuts for crypto addresses](https://github.com/cjxe/custom-telegram-bot-1) *(closed-source)*
 - <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" alt="sol-logo" width="15"/> **Solidity**
 - - [An on-chain, order book style DEX](https://github.com/cjxe/on-chain-dex) *(← my bachelors project)*
