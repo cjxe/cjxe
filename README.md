@@ -35,7 +35,7 @@ Hey, my name is Baran (pronounced Bar-on)!
 - - [Some of my old designs](https://imgur.com/a/Cc5zd7c).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15"/> **React**
 - - Built [Transfer Coins](https://transfer-coins.vercel.app/).
-- - Used it while building the UI while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
+- - Used it to build a UI while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
 - <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
 - <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook**
 - - Built and tested a [design system for Transfer Coins](https://cjxe.github.io/transfer-coins/).
