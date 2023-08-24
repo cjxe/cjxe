@@ -42,6 +42,7 @@ Hey, my name is Baran (pronounced Bar-on)!
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="15"/> **Tailwind CSS**
 
 ### Data
+- <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="15"/> **Redux (Toolkit)** - Used it while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
 - <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" width="15"/> **Cloud Firestore** - Implemented it in a monitoring service to log user activities, perform CRUD operations and search queries.
 - <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="15"/> **MongoDB** - Implemented it in the backend of a full stack website to log products and perform CRUD operations.
 - <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" width="15"/> **Redis** - Utilised when working with Refresh Tokens (JWT) for whitelisting purposes.
