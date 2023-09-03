@@ -11,7 +11,7 @@ Hey, my name is Baran (pronounced Bar-on)!
 
 - <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js-logo" width="15"/> **JavaScript**
 - - [Designed, coded, and hosted a REST API that saves metadata on IPFS and saves proof on a network that runs on the EVM](https://www.linkedin.com/in/mahmut-baran-turkmen/) *(built for an international corporation, closed-source)*
-- - [A Discord chatbot that has a loyalty reward system like MEE6](https://www.linkedin.com/in/mahmut-baran-turkmen/overlay/experience/2018664862/multiple-media-viewer/?profileId=ACoAACSBY4sB9GB0Ng1SFps3b_bQeJq5gQops2c&treasuryMediaId=1635499006986) *(closed-source)*
+- - [A multifunctional Discord chatbot](https://www.linkedin.com/in/mahmut-baran-turkmen/overlay/projects/1532954489/multiple-media-viewer/?profileId=ACoAACSBY4sB9GB0Ng1SFps3b_bQeJq5gQops2c&treasuryMediaId=1635538718324) *(closed-source)*
 - <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="ts-logo" width="15"/> **TypeScript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/> **Python**
 - - [A search engine for in-game items](https://github.com/cjxe/EZ-skin-price-aggregator)
