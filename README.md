@@ -56,6 +56,7 @@ Hey, my name is Baran (pronounced Bar-on)!
 ### Testing
 - <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest** - Followed TDD while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
 - <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" width="15"/> **Cucumber** - Completed [BDD with Cucumber (JavaScript) course](https://school.cucumber.io/courses/bdd-with-cucumber-javascript).
+- <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" width="15"/> **Cypress**
 - <img src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" width="15"/> **Mocha** - Followed TDD/BDD approach for my [bachelor's project](https://github.com/cjxe/on-chain-dex).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
   
