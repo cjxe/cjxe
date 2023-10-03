@@ -2,9 +2,9 @@
 
 ## About me
 
-Hey, my name is Baran (pronounced Bar-on)!
+Hey, my name is Baran (pronounced as "Baron")!
 
-- ✨ **Interests:** UI/UX, scalability, optimizations, documentation, finance, and DeFi.
+- ✨ **Interests:** Simple, optimised, tested and well-documented systems. These include UI/UX, finance, and DeFi.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on [LinkedIn](https://linkedin.com/in/mahmut-baran-turkmen)
 
 ## Languages that I know
