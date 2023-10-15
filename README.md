@@ -1,4 +1,6 @@
-<h1 align="center"><a href="https://cjxe.github.io/cv/CV_mahmut_baran_turkmen.pdf" target="_blank" rel="noopener noreferrer">📄 My CV</h1>
+<h1 align="center"><a href="https://cjxe.github.io/cv/CV_mahmut_baran_turkmen.pdf" target="_blank" rel="noopener noreferrer">📄 My CV</a> | <a href="https://regal-shortbread-d385bf.netlify.app/" target="_blank" rel="noopener noreferrer">📝 My blog</a></h1>
+
+
 
 ## About me
 
