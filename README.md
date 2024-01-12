@@ -8,9 +8,7 @@ Hey, my name is Baran (pronounced as "Baron")!
 
 Baron's pronunciation: 
 
-<video controls="" width="200" height="24" name="media">
-<source src="assets/baron-pronunciation.mp3" type="audio/mp3">
-</video>
+https://github.com/cjxe/cjxe/assets/baron-pronunciation.mp4
 
 ---
 
