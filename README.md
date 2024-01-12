@@ -6,6 +6,14 @@
 
 Hey, my name is Baran (pronounced as "Baron")!
 
+Baron's pronunciation: 
+
+<video controls="" width="200" height="24" name="media">
+<source src="assets/baron-pronunciation.mp3" type="audio/mp3">
+</video>
+
+---
+
 - ✨ **Interests:** Simple, optimised, tested and well-documented systems. These include UI/UX, finance, and DeFi.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on [LinkedIn](https://linkedin.com/in/mahmut-baran-turkmen)
 
