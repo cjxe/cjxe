@@ -12,7 +12,7 @@ https://github.com/cjxe/cjxe/assets/35844899/fdf0485d-b0ca-4532-a707-65814297b7e
 
 ---
 
-- ✨ **Interests:** Simple, optimised, tested and well-documented systems. These include UI/UX, finance, and DeFi.
+- ✨ **Interests:** Optimised, tested and well-documented systems. These include UI/UX, finance, and DeFi.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on [LinkedIn](https://linkedin.com/in/mahmut-baran-turkmen)
 
 ## Languages that I know
@@ -65,7 +65,7 @@ https://github.com/cjxe/cjxe/assets/35844899/fdf0485d-b0ca-4532-a707-65814297b7e
 - <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest** - Followed TDD while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
 - <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" width="15"/> **Cucumber** - Completed [BDD with Cucumber (JavaScript) course](https://school.cucumber.io/courses/bdd-with-cucumber-javascript).
 - <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" width="15"/> **Cypress**
-- <img src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" width="15"/> **Mocha** - Followed TDD/BDD approach for my [bachelor's project](https://github.com/cjxe/on-chain-dex).
+- <img src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" width="15"/> **Mocha** - Followed TDD/BDD approach for my [bachelor's project](https://github.com/cjxe/on-chain-dex).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
   
 ### Automation
@@ -73,7 +73,7 @@ https://github.com/cjxe/cjxe/assets/35844899/fdf0485d-b0ca-4532-a707-65814297b7e
 - 🐶 **Husky** - Created a pre-commit hook to format the local codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 100%.
   
 ### Deployment
-- <img src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png" width="15"/> **Terraform** - [I deployed a VPC with subnets and EC2 instances](https://github.com/cjxe/terraform-tutorial).
+- <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="15"/> **Terraform** - [I deployed a VPC with subnets and EC2 instances](https://github.com/cjxe/terraform-tutorial).
 - <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
 - <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)**
 - <img src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" width="15"/> **Vercel**
