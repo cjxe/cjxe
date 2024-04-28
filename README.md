@@ -1,7 +1,5 @@
 <h1 align="center"><a href="https://cjxe.github.io/cv/CV_mahmut_baran_turkmen.pdf" target="_blank" rel="noopener noreferrer">📄 My CV</a> | <a href="https://baransblog.com/" target="_blank" rel="noopener noreferrer">📝 My blog</a></h1>
 
-
-
 ## About me
 
 Hey, my name is Baran (pronounced as "Baron")!
@@ -12,7 +10,7 @@ https://github.com/cjxe/cjxe/assets/35844899/fdf0485d-b0ca-4532-a707-65814297b7e
 
 ---
 
-- ✨ **Interests:** Optimised, tested and well-documented systems. These include UI/UX, finance, and DeFi.
+- ✨ **Interests:** Solving challenging problems. Some are UI/UX, finance, and DeFi.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on [LinkedIn](https://linkedin.com/in/mahmut-baran-turkmen)
 
 ## Languages that I know
@@ -21,11 +19,11 @@ https://github.com/cjxe/cjxe/assets/35844899/fdf0485d-b0ca-4532-a707-65814297b7e
 - - [Designed, coded, and hosted a REST API that saves metadata on IPFS and saves proof on a network that runs on the EVM](https://www.linkedin.com/in/mahmut-baran-turkmen/) *(built for an international corporation, closed-source)*
 - - [A multifunctional Discord chatbot](https://www.linkedin.com/in/mahmut-baran-turkmen/overlay/projects/1532954489/multiple-media-viewer/?profileId=ACoAACSBY4sB9GB0Ng1SFps3b_bQeJq5gQops2c&treasuryMediaId=1635538718324) *(closed-source)*
 - <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="ts-logo" width="15"/> **TypeScript**
+- - I prefer using typed JavaScript in my newer projects to increase the overall robustness.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="py-logo" width="15"/> **Python**
-- - [A search engine for in-game items](https://github.com/cjxe/EZ-skin-price-aggregator)
-- - [A Telegram chatbot that creates shortcuts for crypto addresses](https://github.com/cjxe/custom-telegram-bot-1) *(closed-source)*
+- - [A fuzzy search engine for a video game](https://github.com/cjxe/EZ-skin-price-aggregator)
 - <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" alt="sol-logo" width="15"/> **Solidity**
-- - [An on-chain, order book style DEX](https://github.com/cjxe/on-chain-dex) *(← my bachelors project)*
+- - [An on-chain, order book style decentralised exchange](https://github.com/cjxe/on-chain-dex) *(← my bachelors project)*
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c-logo" width="15"/> **C** 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash-logo" width="15"/> **Bash**
 
@@ -33,15 +31,16 @@ https://github.com/cjxe/cjxe/assets/35844899/fdf0485d-b0ca-4532-a707-65814297b7e
 
 ### Teamwork
 - <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> **Git** - Completed [Learn Git Branching](https://learngitbranching.js.org/) course.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="15"/> **Notion**
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width="15"/> **JIRA**
+- - Created ticket templates to minimise the iterative communication exchanges across various teams.
+- - Automated moving tickets to another column to decrease developers' workload.
 
 ### Front end
 - <img src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" width="15"/> **Figma**
-- - [My current work called Transfer Coins](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1).
-- - [Some of my old designs](https://imgur.com/a/Cc5zd7c).
+- - [Designed Transfer Coins](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1).
+- - [Some of my older designs](https://imgur.com/a/Cc5zd7c).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="15"/> **React**
-- - Built [Transfer Coins](https://transfer-coins.vercel.app/).
+- - [Built Transfer Coins](https://transfer-coins.vercel.app/).
 - - Used it to build a UI while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
 - <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="15"/> **Next.js**
 - <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="15"/> **Storybook**
@@ -65,17 +64,17 @@ https://github.com/cjxe/cjxe/assets/35844899/fdf0485d-b0ca-4532-a707-65814297b7e
 - <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="15"/> **Jest** - Followed TDD while working as a Front End Engineer at [VIOOH](https://www.viooh.com/).
 - <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" width="15"/> **Cucumber** - Completed [BDD with Cucumber (JavaScript) course](https://school.cucumber.io/courses/bdd-with-cucumber-javascript).
 - <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" width="15"/> **Cypress**
-- <img src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" width="15"/> **Mocha** - Followed TDD/BDD approach for my [bachelor's project](https://github.com/cjxe/on-chain-dex).
+- <img src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" width="15"/> **Mocha** - Followed TDD when developing [my bachelor's project](https://github.com/cjxe/on-chain-dex).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="15"/> **Selenium** - Built a [configurable end-to-end test](https://github.com/cjxe/supreme-auto-checkout) for a luxury clothing brand.
   
 ### Automation
 - <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="15"/> **GitHub Actions** - Utilise it for automatic testing and deployments. [An example project for using Terraform with GitHub Actions.](https://github.com/cjxe/github-oidc-terraform-aws)
-- 🐶 **Husky** - Created a pre-commit hook to format the local codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 100%.
+- 🐶 **Husky** - Created a pre-commit hook to format the local codebase with Prettier, lint with ESLint and build the project to increase the deployment success rate from 80% to 95%.
   
 ### Deployment
 - <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="15"/> **Terraform** - [I deployed a VPC with subnets and EC2 instances](https://github.com/cjxe/terraform-tutorial).
 - <img src="https://static.netify.ai/logos/h/e/t/urgmare/icon.png?v=2" width="15"/> **Dedicated Server (Hetzner)** - Deployed two BSC full nodes, created user groups, changed permissions, managed firewall and installed a GUI.
-- <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)**
+- <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width="15"/> **VPS (DigitalOcean)** - Hosted a Minecraft server for 8 people.
 - <img src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" width="15"/> **Vercel**
 
 ### Documentation
