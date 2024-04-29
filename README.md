@@ -10,7 +10,7 @@ https://github.com/cjxe/cjxe/assets/35844899/fdf0485d-b0ca-4532-a707-65814297b7e
 
 ---
 
-- ✨ **Interests:** Solving challenging problems. Some are UI/UX, finance, and DeFi.
+- ✨ **Interests:** Solving challenging problems. Some are [UI/UX](https://www.figma.com/proto/nr1x8mEOF5t30K8d7PQnMb/Transfer-Coins?page-id=1%3A14&node-id=32%3A2515&viewport=-2174%2C-713%2C0.22&scaling=min-zoom&starting-point-node-id=32%3A2515&hide-ui=1), [optimisations](https://gist.github.com/cjxe/b8fa589f80b7d23801eeba1fb129f03a), [finance](https://github.com/cjxe/on-chain-dex), and regulated freedom.
 - ❓ **Some of my projects are closed-source.** If you would like to see any, please let me know on [LinkedIn](https://linkedin.com/in/mahmut-baran-turkmen)
 
 ## Languages that I know
