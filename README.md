@@ -1,1 +1,7 @@
-<h1 align="center"><a href="https://cjxe.github.io/cv/CV_mahmut_baran_turkmen.pdf" target="_blank" rel="noopener noreferrer">📄 My CV</a> | <a href="https://baransblog.com/" target="_blank" rel="noopener noreferrer">📝 My blog</a></h1>
+Hi, I’m Baran from London, UK 🇬🇧
+
+I’m currently the first hire and frontend lead at QFEX, where I own and build the [web trading UI](https://qfex.com/trade), [iOS app](https://testflight.apple.com/join/EHMRQB9w), and [Android app](https://play.google.com/apps/testing/com.qfex).
+
+Most of my contributions are private on the company account, so feel free to email me if you’d like to know more about what I’ve been working on.
+
+In the meantime, you can read some of my [blog posts](https://baransblog.com).
